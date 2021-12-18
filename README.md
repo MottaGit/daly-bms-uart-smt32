@@ -1,5 +1,7 @@
 ## daly-bms-uart-smt32
-STM32 library for communicating with Daly BMS over UART
+STM32 library for communicating with Daly BMS over UART.
+daly-bms-uart.h é o arquivo de cabeçalho da biblioteca.
+daly-bms-uart.c é o arquivo de aplicação das função da biblioteca.
 
 ## The DALY BMS UART Protocol
 

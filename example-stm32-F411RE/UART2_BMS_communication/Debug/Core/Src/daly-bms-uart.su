@@ -1,0 +1,5 @@
+daly-bms-uart.c:16:5:Daly_BMS_UART_Init	16	static
+daly-bms-uart.c:30:6:sendCommand	24	static
+daly-bms-uart.c:40:6:receiveBytes	8	static
+daly-bms-uart.c:49:6:getPackMeasurements	24	static
+daly-bms-uart.c:66:6:getMinMaxCellVoltage	24	static

@@ -3,7 +3,7 @@ STM32 library for communicating with Daly BMS over UART
 
 ## The DALY BMS UART Protocol
 
-Esta é a aparência de um pacote de saída. Ele sempre fixa 13 bytes. 
+Esta é a aparência de um pacote de saída. Fixo em 13 bytes. 
 | Start Byte      | Host Address | Command ID | Data Length | Data | Checksum | 
 | - | - | - | - | - | - | 
 | 0xA5 | 0x80 | See below | 0x08 (fixed) | 0x0000000000000000 (8 bytes) | See below |
